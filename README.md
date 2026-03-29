@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
