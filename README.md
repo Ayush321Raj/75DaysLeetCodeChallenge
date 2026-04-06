@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
@@ -156,5 +157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
