@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
