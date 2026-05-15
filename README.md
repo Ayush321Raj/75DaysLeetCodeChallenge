@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
