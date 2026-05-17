@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
