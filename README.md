@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
