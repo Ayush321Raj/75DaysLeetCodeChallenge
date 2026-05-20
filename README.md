@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
