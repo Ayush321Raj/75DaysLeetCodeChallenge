@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
