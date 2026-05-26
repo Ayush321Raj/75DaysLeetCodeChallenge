@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
