@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
