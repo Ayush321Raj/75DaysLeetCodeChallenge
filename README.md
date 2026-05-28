@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
