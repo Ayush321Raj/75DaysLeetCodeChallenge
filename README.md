@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
