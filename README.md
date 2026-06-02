@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
