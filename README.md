@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
