@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0007-reverse-integer/) | Medium |
+| [0043-multiply-strings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Combinatorics
