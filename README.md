@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0046-permutations/) | Medium |
 | [0079-word-search](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Tree
