@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
@@ -73,13 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -109,13 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
@@ -131,11 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0006-zigzag-conversion/) | Medium |
@@ -164,8 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
@@ -173,8 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
@@ -198,8 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
@@ -228,8 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
@@ -253,8 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -271,14 +273,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0133-clone-graph](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
@@ -289,8 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
@@ -299,23 +301,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
@@ -325,29 +327,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -360,8 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -370,19 +372,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0043-multiply-strings/) | Medium |
@@ -395,11 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
@@ -415,8 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
@@ -425,8 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
@@ -439,8 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
@@ -453,8 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
@@ -465,12 +468,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0039-combination-sum/) | Medium |
@@ -479,8 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
@@ -501,8 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
@@ -523,46 +526,54 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0043-multiply-strings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0062-unique-paths/) | Medium |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 <!---LeetCode Topics End-->
