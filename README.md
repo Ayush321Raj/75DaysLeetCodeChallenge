@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0007-reverse-integer/) | Medium |
+| [0029-divide-two-integers](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0050-powx-n/) | Medium |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
