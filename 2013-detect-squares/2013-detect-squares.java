@@ -1,38 +1,40 @@
 class DetectSquares {
 
-    Map<Integer, Map<Integer, Integer>> cnt = new HashMap<>();
+    private Map<String, Integer> points;
 
-    public DetectSquares() {}
+    public DetectSquares() {
+        points = new HashMap<>();
+    }
 
     public void add(int[] point) {
-        int x = point[0], y = point[1];
-        cnt.computeIfAbsent(x, k -> new HashMap<>());
-        cnt.get(x).put(y, cnt.get(x).getOrDefault(y, 0) + 1);
+        String key = point[0] + "," + point[1];
+        points.put(key, points.getOrDefault(key, 0) + 1);
     }
 
     public int count(int[] point) {
-        int x = point[0], y = point[1];
+        int x = point[0];
+        int y = point[1];
+        int result = 0;
 
-        if (!cnt.containsKey(x)) return 0;
+        for (String key : points.keySet()) {
+            String[] parts = key.split(",");
+            int px = Integer.parseInt(parts[0]);
+            int py = Integer.parseInt(parts[1]);
 
-        int res = 0;
+            // diagonal point of a square
+            if (Math.abs(px - x) != Math.abs(py - y) ||
+                px == x || py == y) {
+                continue;
+            }
 
-        for (int col : cnt.keySet()) {
-            if (col == x) continue;
+            int diagonal = points.get(key);
 
-            int d = col - x;
+            int corner1 = points.getOrDefault(px + "," + y, 0);
+            int corner2 = points.getOrDefault(x + "," + py, 0);
 
-            int c1 = cnt.get(col).getOrDefault(y, 0);
-
-            res += c1 *
-                   cnt.get(x).getOrDefault(y + d, 0) *
-                   cnt.get(col).getOrDefault(y + d, 0);
-
-            res += c1 *
-                   cnt.get(x).getOrDefault(y - d, 0) *
-                   cnt.get(col).getOrDefault(y - d, 0);
+            result += diagonal * corner1 * corner2;
         }
 
-        return res;
+        return result;
     }
 }
