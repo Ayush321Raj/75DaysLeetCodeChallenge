@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [2013-detect-squares](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/2013-detect-squares) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
+| [2013-detect-squares](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/2013-detect-squares) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Union-Find
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
+| [2013-detect-squares](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/2013-detect-squares) |
 ## Quickselect
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [2013-detect-squares](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/2013-detect-squares) |
 ## Queue
 |  |
 | ------- |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [2013-detect-squares](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/2013-detect-squares) |
 ## String Matching
 |  |
 | ------- |
