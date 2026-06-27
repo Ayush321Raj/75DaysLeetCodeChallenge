@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
