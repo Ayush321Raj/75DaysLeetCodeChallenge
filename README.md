@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
