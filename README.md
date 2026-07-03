@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
