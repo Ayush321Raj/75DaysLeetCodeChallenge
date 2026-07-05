@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 |  |
