@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
+| [0695-max-area-of-island](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Linked List
