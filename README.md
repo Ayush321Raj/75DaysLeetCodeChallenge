@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
+| [0763-partition-labels](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 | [2013-detect-squares](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/2013-detect-squares) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0763-partition-labels/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0763-partition-labels/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
