@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 ## Sorting
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph Theory
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -481,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -512,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
@@ -674,4 +681,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0239-sliding-window-maximum/) | Hard |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
