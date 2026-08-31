@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph Theory
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 ## Divide and Conquer
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -681,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ayush321Raj/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
 | ------- |
